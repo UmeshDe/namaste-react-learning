@@ -1,0 +1,26 @@
+{
+  "name": "namastey_react",
+  "version": "1.0.0",
+  "description": "namaste react course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmeshDe/namaste-react-learning.git"
+  },
+  "keywords": [
+    "namste",
+    "react"
+  ],
+  "author": "Umesh Devadiga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmeshDe/namaste-react-learning/issues"
+  },
+  "homepage": "https://github.com/UmeshDe/namaste-react-learning#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
